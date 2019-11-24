@@ -51,4 +51,4 @@ b2 d4       1
 
 Если описание задачи непонятно, предлагаю посмотреть визуализацию задачи:
 
-<img src = "https://af12.mail.ru/cgi-bin/readmsg?id=15722647481255787457;0;1;1&mode=attachment&email=andrei_87@mail.ru">
+<img src = "https://af.attachmail.ru/cgi-bin/readmsg?id=15722647481255787457;0;1;1&mode=attachment&email=andrei_87@mail.ru&rid=2126482551415818752233800085611061833131">
